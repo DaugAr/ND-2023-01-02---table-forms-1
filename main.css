@@ -1,0 +1,18 @@
+body {
+    margin: 20px;
+}
+
+.cont {
+    background-color: brown;
+    max-width: 600px;
+    height: 500px;
+}
+
+#topR {
+    width: 100%;
+    max-width: 500px;
+    height: 100px;
+    background-color: rgb(152, 209, 199);
+    color: white;
+
+}
